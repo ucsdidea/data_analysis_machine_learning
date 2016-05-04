@@ -13,10 +13,13 @@ Tutorial files for the "Data Analysis and Machine Learning" workshop, presented 
 ## Outline
 1) Data Analysis:
 - loading common data types (e.g. ``.csv``)
-- pre-processing data (e.g. removing ``NaN`` data)
 - statistics
 - visualization
+- fitting models to data
 
 2) Machine Learning:
 - classification
 - regression
+
+## Other resources
+- Jake VanderPlas' Scikit-learn Tutorial: https://github.com/jakevdp/sklearn_tutorial
